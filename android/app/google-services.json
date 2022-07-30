@@ -1,0 +1,100 @@
+{
+  "project_info": {
+    "project_number": "11690882230",
+    "project_id": "passify-app-347b7",
+    "storage_bucket": "passify-app-347b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11690882230:android:34f5f301e4285273dd2217",
+        "android_client_info": {
+          "package_name": "com.seov.passify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "11690882230-86c4jcihle9vu2f0o9sm5ut7i3id65s4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.seov.passify",
+            "certificate_hash": "c134ffee87fd832a426ae2620efa85ba84b81f97"
+          }
+        },
+        {
+          "client_id": "11690882230-ig4njuc9tjjtrbmos3ls0u6qbvq5o9u9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.seov.passify",
+            "certificate_hash": "619e0b97d858ca81de9b906422e9e08413dc0660"
+          }
+        },
+        {
+          "client_id": "11690882230-ovvqkt404jvfveob19qdvigdn2l5h1v9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.seov.passify",
+            "certificate_hash": "2b55c7d27cd32c2bc683ca0e378927612601f292"
+          }
+        },
+        {
+          "client_id": "11690882230-hb5k2gks4m6jqe1rm44m5e1uukkbpund.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDblCPe3TYV4ISkcIhVCNbXysvjnJoNtbw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "11690882230-hb5k2gks4m6jqe1rm44m5e1uukkbpund.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11690882230:android:9239993906e433eddd2217",
+        "android_client_info": {
+          "package_name": "com.seov.passify_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "11690882230-m7d2lmloct6885trnpis50mpq65q3v2i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.seov.passify_admin",
+            "certificate_hash": "2b55c7d27cd32c2bc683ca0e378927612601f292"
+          }
+        },
+        {
+          "client_id": "11690882230-hb5k2gks4m6jqe1rm44m5e1uukkbpund.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDblCPe3TYV4ISkcIhVCNbXysvjnJoNtbw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "11690882230-hb5k2gks4m6jqe1rm44m5e1uukkbpund.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
